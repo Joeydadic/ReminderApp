@@ -2,7 +2,7 @@
 An application which allows users to login with their unique Username and Password, to protect and customize their own subset of Reminders to use in their day to day life.
 
 # Programming Language and Software Used
-The programming language for this project is **Java**. Beyond the small usage of XML, **Java** is the only programming language used in all activities, including QA testing, Frontend, and Backend.\ Software used:\ **Eclipse IDE**\ **Android Studio**
+The programming language for this project is **Java**. Beyond the small usage of XML, **Java** is the only programming language used in all activities, including QA testing, Frontend, and Backend.<br /> Software used:\ **Eclipse IDE**\ **Android Studio**
 
 # Functionality
   **AppDatabase**: <br /> - Contains the list of default Reminder's as well as the list of Reminder's the user sets for themselves.\
