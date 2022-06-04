@@ -5,8 +5,8 @@ An application which allows users to login with their unique Username and Passwo
 The programming language for this project is **Java**. Beyond the small usage of XML, **Java** is the only programming language used in all activities, including QA testing, Frontend, and Backend.
 
 # Functionality
-  **AppDatabase**: <br /> * Contains the list of default Reminder's as well as the list of Reminder's the user sets for themselves.\
-                    * Ties in the users Username and Password with their personal set of Reminder's
+  **AppDatabase**: <br /> - Contains the list of default Reminder's as well as the list of Reminder's the user sets for themselves.\
+                     - Ties in the users Username and Password with their personal set of Reminder's
     
   **ListAllActivity**: <br /> * Contains the activity for list commands, such as creation of lists, deletion of lists, and adding a Reminder to the list.
     
