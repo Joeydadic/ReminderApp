@@ -7,17 +7,17 @@ The programming language for this project is **Java**. Beyond the small usage of
 # Functionality
   **AppDatabase**
   
-    * Contains the list of default Reminder's as well as the list of Reminder's the user sets for themselves.
-    * Ties in the users Username and Password with their personal set of Reminder's
+    *Contains the list of default Reminder's as well as the list of Reminder's the user sets for themselves.
+    *Ties in the users Username and Password with their personal set of Reminder's
     
   **ListAllActivity**
   
-    * Contains the activity for list commands, such as creation of lists, deletion of lists, and adding a Reminder to the list.
+    *Contains the activity for list commands, such as creation of lists, deletion of lists, and adding a Reminder to the list.
     
   **MainActivity**
   
-    * Has all of the code in regards to creation of a Username and Password.
-    * Has the login screen for the user to enter their Username and Password.
+    *Has all of the code in regards to creation of a Username and Password.
+    *Has the login screen for the user to enter their Username and Password.
   
   **ReminderActivity**
   
