@@ -52,7 +52,7 @@ public class ReminderActivity extends AppCompatActivity {
         new TimePickerDialog(ReminderActivity.this, t, dateAndTime.get(Calendar.HOUR_OF_DAY), dateAndTime.get(Calendar.MINUTE), true).show();
     }
 
-    // установка начальных даты и времени
+    
     private void setInitialDateTime() {
         date.setText(new SimpleDateFormat("MM/dd/yyyy").format(dateAndTime.getTime()));
         time.setText(new SimpleDateFormat("hh:mm").format(dateAndTime.getTime()));
