@@ -1,6 +1,9 @@
 # Introduction
 An application which allows users to login with their unique Username and Password, to protect and customize their own subset of Reminders to use in their day to day life.
 
+# Documentation and Design Directory
+<a href="https://github.com/Joeydadic/ReminderApp/tree/main/GroupProject/Design-Team">Documentation here</a>
+
 # Code Directory
 <a href="https://github.com/Joeydadic/ReminderApp/tree/main/GroupProject/FinalProject/Final_App/app/src/main/java/edu/qc/seclass/rlm">Java files here</a>
 
