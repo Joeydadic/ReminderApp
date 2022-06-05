@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Distrib/Dropbox/Java/312512/ReminderApp/app/src/main/res/layout/activity_list_all.xml" value="0.33" />
+        <entry key="..\:/Distrib/Dropbox/Java/312512/ReminderApp/app/src/main/res/layout/activity_main.xml" value="0.32314814814814813" />
+        <entry key="..\:/Distrib/Dropbox/Java/312512/ReminderApp/app/src/main/res/layout/dimens.xml" value="0.36666666666666664" />
+        <entry key="..\:/Distrib/Dropbox/Java/312512/ReminderApp/app/src/main/res/layout/list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Distrib/Dropbox/Java/312512/ReminderApp/app/src/main/res/layout/user_input_dialog_box.xml" value="0.19427083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
