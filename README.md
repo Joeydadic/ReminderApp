@@ -2,7 +2,7 @@
 An application which allows users to login with their unique Username and Password, to protect and customize their own subset of Reminders to use in their day to day life.
 
 # Code Directory
-<a href=["https://github.com/Joeydadic/ReminderApp/tree/main/GroupProject/FinalProject/Final_App/app/src/main/java/edu/qc/seclass/rlm"]>Java files here</a>
+<a href="https://github.com/Joeydadic/ReminderApp/tree/main/GroupProject/FinalProject/Final_App/app/src/main/java/edu/qc/seclass/rlm">Java files here</a>
 
 # Programming Language and Software Used
 The programming language for this project is **Java**. Beyond the small usage of XML, **Java** is the only programming language used in all activities, including QA testing, Frontend, and Backend.<br /> Software used:<br />**Eclipse IDE**<br />**Android Studio**
